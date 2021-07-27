@@ -16,6 +16,9 @@ const cache = new InMemoryCache({
           const planetRef = toReference(`Planet:${planetid}`);
           return planetRef;
         },
+        name(cachedName) {
+          return cachedName.toUpperCase();
+        },
       },
     },
   },
