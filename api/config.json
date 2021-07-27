@@ -1,0 +1,6 @@
+{
+    "mongoInstance": "swdb",
+    "mongoDatabase": "starwars",
+    "mongoCollection": "planets",
+    "mongoServer": "cluster0.roiy0.mongodb.net"
+}

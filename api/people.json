@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Luke Skywalker",
+    "planet_name": "Tatooine"
+  },
+  {
+    "name": "Darth Vader",
+    "planet_name": "Mustafar"
+  }
+]
